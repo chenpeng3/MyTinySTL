@@ -99,3 +99,5 @@ See [Wiki](https://github.com/Alinshans/MyTinySTL/wiki).
 ## Test
 
 See [Test](https://github.com/Alinshans/MyTinySTL/tree/master/Test).
+
+测试git分支合并
